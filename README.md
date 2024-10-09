@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AlehandroLeandro
 - 👀 I’m interested in JavaScript programing and translation.
-- 🌱 I’m currently learning JavaScript and translation.
-- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: alehandro.leandro@gmail.com
 
 <!---
