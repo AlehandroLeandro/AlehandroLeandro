@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlehandroLeandro
-- 👀 I’m interested in JavaScript programing and translation.
+- 👀 I’m interested in Java
 - 📫 How to reach me: alehandro.leandro@gmail.com
 
 <!---
